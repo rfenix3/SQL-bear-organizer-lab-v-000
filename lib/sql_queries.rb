@@ -1,3 +1,5 @@
+require 'pry'
+
 def selects_all_female_bears_return_name_and_age
   "select name, age from bears where gender = 'F'"
 end
@@ -23,6 +25,7 @@ def selects_most_prominent_color_and_returns_with_count
 end
 
 def counts_number_of_bears_with_goofy_temperaments
+  binding.pry
   "select count(*) from bears where temperament == 'goofy"
 end
 
