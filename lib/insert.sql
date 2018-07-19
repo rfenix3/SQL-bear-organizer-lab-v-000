@@ -1,11 +1,18 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) 
-VALUES ('Mr. Chocolate', 3, 'M', 'brown', 'friendly');
+VALUES ('Mr. Chocolate', 7, 'M', 'brown', 'friendly');
 
+INSERT INTO bears (name, age, gender, color, temperament, alive) 
+VALUES ('Rowdy', 5, 'M', 'black', 'aggressive');
 
-Mr. Chocolate 'friendly'
-Rowdy 'aggressive'
-Tabitha 'laid back'
-Sergeant Brown 'agressive'
+INSERT INTO bears (name, age, gender, color, temperament, alive) 
+VALUES ('Tabitha', 6, 'F', 'black', 'laid back');
+
+INSERT INTO bears (name, age, gender, color, temperament, alive) 
+VALUES ('Sergeant Brown', 9, 'M', 'white', 'aggressive');
+
+INSERT INTO bears (name, age, gender, color, temperament, alive) 
+VALUES ('Sergeant Brown', 9, 'M', 'white', 'aggressive');
+
 Melissa 'laid back'
 Grinch 'aggressive'
 Wendy 'friendly'
