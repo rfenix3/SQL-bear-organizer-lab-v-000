@@ -1,9 +1,9 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) 
-VALUES ('Mr. Chocolate', 3, 'M', 'brown', );
+VALUES ('Mr. Chocolate', 3, 'M', 'brown', 'laid back');
 
 
-Mr. Chocolate
-Rowdy
+Mr. Chocolate 'laid back'
+Rowdy 'agressive'
 Tabitha
 Sergeant Brown
 Melissa
