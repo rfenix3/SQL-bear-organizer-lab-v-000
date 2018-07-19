@@ -4,8 +4,8 @@ VALUES
   ('Rowdy', 5, 'M', 'black', 'aggressive', 1), 
   ('Tabitha', 6, 'F', 'black', 'laid back', 1), 
   ('Sergeant Brown', 15, 'M', 'white', 'aggressive', 0), 
-  ('Melissa', 8, 'F', 'white', 'friendly'),
-  ('Grinch', 15, 'M', 'green', 'aggressive'),
-  ('Wendy', 10, 'F', 'brown', 'friendly'),
-  (NULL, 12, 'F', 'white', 'aggressive');
+  ('Melissa', 8, 'F', 'white', 'friendly', 1),
+  ('Grinch', 15, 'M', 'green', 'aggressive', 1),
+  ('Wendy', 10, 'F', 'brown', 'friendly', 0),
+  (NULL, 12, 'F', 'white', 'aggressive', 0);
   
